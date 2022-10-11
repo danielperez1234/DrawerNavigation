@@ -3,21 +3,28 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         <entry key="..\:/drawer/DrawerNavigation/app/src/main/res/layout/activity_main.xml" value="0.13858695652173914" />
         <entry key="..\:/drawer/DrawerNavigation/app/src/main/res/layout/app_bar.xml" value="0.13858695652173914" />
 =======
 <<<<<<< Updated upstream
+=======
+        <entry key="..\:/Kotlin/DrawerNavigation/app/src/main/res/layout/nav_header.xml" value="0.1" />
+>>>>>>> Stashed changes
         <entry key="..\:/Kotlin/DrawerNavigation/app/src/main/res/menu/navigation_menu.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/soybi/Desktop/Universidad/Semestre 5/Kotlin/Drawer Navigation/DrawerNavigation/app/src/main/res/layout/activity_main.xml" value="0.3509963768115942" />
         <entry key="..\:/Users/soybi/Desktop/Universidad/Semestre 5/Kotlin/Drawer Navigation/DrawerNavigation/app/src/main/res/layout/app_bar.xml" value="0.1" />
         <entry key="..\:/Users/soybi/Desktop/Universidad/Semestre 5/Kotlin/Drawer Navigation/DrawerNavigation/app/src/main/res/layout/nav_header.xml" value="0.1" />
         <entry key="..\:/Users/soybi/Desktop/Universidad/Semestre 5/Kotlin/Drawer Navigation/DrawerNavigation/app/src/main/res/layout/navigation_menu.xml" value="0.1" />
         <entry key="..\:/Users/soybi/Desktop/Universidad/Semestre 5/Kotlin/Drawer Navigation/DrawerNavigation/app/src/main/res/menu/navigation_menu.xml" value="0.1" />
+<<<<<<< Updated upstream
 =======
         <entry key="..\:/Documentos/UDLS/Quinto Semestre/Segundo Parcial/Desarrollo Android/DrawerNavigation/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
 >>>>>>> Stashed changes
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>
